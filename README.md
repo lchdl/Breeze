@@ -1,7 +1,7 @@
 # Breeze
 A super light-weight CPU deep learning framework with no external dependency.
-
-Implemented features:
+---
+**Implemented features**
 1) 2/3D batched convolution & transposed convolution and their backprop calculations
 2) batch normalization and its backprop calculation
 3) 2/3D max ppoling & average pooling (including backprop)
