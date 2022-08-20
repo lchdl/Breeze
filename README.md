@@ -10,3 +10,4 @@ A super light-weight CPU deep learning framework with no external dependency.
 6) cross entropy loss, Dice loss, mean square error (MSE) loss
 7) optimized convolution operations (AVX+OpenMP) and high performance matrix multiplication
 8) a simple builtin tensor library written from scratch
+9) a simple mechanic to save & load tensor data (serialize & deserialize)
